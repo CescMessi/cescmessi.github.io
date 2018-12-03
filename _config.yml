@@ -11,7 +11,7 @@ github_repo: "https://github.com/CescMessi/CescMessi.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不谢幕 不庆祝 不欢呼"
+sidebar-about-description: "冬天飞向南方的怀抱"
 sidebar-avatar: /img/about.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
