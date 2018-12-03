@@ -67,7 +67,6 @@ gitalk:
   repo: CescMessi.github.io    #仓库名称
   owner: CescMessi    #github用户名
   admin: CescMessi
-  id: md5(location.pathname)
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
