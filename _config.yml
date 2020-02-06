@@ -56,18 +56,18 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ Disqus（https://disqus.com/）
+ disqus_username: aqtommy
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 817eaa388e1335c94e0b                            #生成的clientID
-  clientSecret: 2f00527846e592f91ebf1dc626a032617100b5d7    #生成的clientSecret
-  repo: CescMessi.github.io    #仓库名称
-  owner: CescMessi    #github用户名
-  admin: CescMessi
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 817eaa388e1335c94e0b                            #生成的clientID
+#  clientSecret: 2f00527846e592f91ebf1dc626a032617100b5d7    #生成的clientSecret
+#  repo: CescMessi.github.io    #仓库名称
+#  owner: CescMessi    #github用户名
+#  admin: CescMessi
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
