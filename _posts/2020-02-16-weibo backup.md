@@ -2,7 +2,7 @@
 layout:     post
 title:      使用Python备份微博的内容
 subtitle:   十年大号两万微博毁于一旦
-date:       2020-2-16
+date:       2020-02-16
 author:     CescMessi
 header-img: img/weiboban.png
 catalog: true
