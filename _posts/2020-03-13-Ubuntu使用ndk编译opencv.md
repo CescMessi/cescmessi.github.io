@@ -45,7 +45,7 @@ ndk从16开始默认不使用gnustl_static模板库，从18开始直接取消了
 
 ![cmake设置4](https://i.loli.net/2020/03/13/xcy3d81Y9irlBOQ.png)
 
-接下来可以根据需要自行对entry进行修改，我取消了生成Android example和Android Project，因为需要Android SDK生成项目比较耗时，而且有可能会出错。选择完成后点击Generate，没有意外的话会很快显示Generating done。
+接下来可以根据需要自行对entry进行修改，我取消了生成Android example和Android Project，因为需要Android SDK生成项目比较耗时，而且有可能会出错。选择完成后点击Configure直至没有红底选项，再点Generate，没有意外的话会很快显示Generating done。
 
 之后命令行进入到输出目录，输入命令`make`，或`make -j8`使用8线程，坐和放宽，稍等片刻，这取决于你机器的性能。完成后输入`make install`
 
