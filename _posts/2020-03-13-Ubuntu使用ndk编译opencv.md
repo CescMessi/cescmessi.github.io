@@ -12,7 +12,7 @@ tags:
 ---
 
 # 背景说明
-ndk从16开始默认不使用gnustl_static模板库，从18开始直接取消了，而opencv的Android sdk还没有跟上这个更新，因此要在Android上用ndk使用opencv，需要用旧版ndk，比如ndk14。但是如果想使用最新的ndk，也不是没有办法，那就是自己编译。
+ndk从16开始默认不使用gnustl_static模板库，从18开始直接取消了，~~而opencv的Android sdk还没有跟上这个更新，因此要在Android上用ndk使用opencv，需要用旧版ndk，比如ndk14。但是如果想使用最新的ndk，也不是没有办法，那就是自己编译。~~经过测试，最新版的opencv Android SDK可以使用最新版ndk。
 
 # 准备工具
 - cmake. 这里我使用的是gui版本，个人感觉比较方便，可以直接使用apt安装`sudo apt install cmake-qt-gui`
