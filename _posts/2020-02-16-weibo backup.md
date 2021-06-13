@@ -160,8 +160,8 @@ def downloadComments(wbid, flag=0):
 # 参考资料
 [微贝介绍](https://www.appinn.com/weibei-for-chrome/)
 
-[看我如何让被封掉的微博秽土转生](https://www.leadroyal.cn/?p=724)
+[看我如何让被封掉的微博秽土转生](https://www.leadroyal.cn/p/724)
 
-[如何科学地蹭热点：用python爬虫获取热门微博评论并进行情感分析](https://www.jianshu.com/p/92de44f0376a)
+[如何科学地蹭热点：用python爬虫获取热门微博评论并进行情感分析](https://web.archive.org/web/20171122084916/http://www.jianshu.com/p/92de44f0376a)
 
 [爬虫之最新版微博评论爬取方法（非url中拼接page=num方法）](https://www.jianshu.com/p/8dc04794e35f)
