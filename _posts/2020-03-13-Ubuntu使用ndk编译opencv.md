@@ -55,4 +55,4 @@ ndk从16开始默认不使用gnustl_static模板库，从18开始直接取消了
 编译好的文件在install文件夹中，jni目录的路径为`install/sdk/native/jni`，使用可以参考[OpenCV On Android最佳环境配置指南(Android Studio篇)](https://www.jianshu.com/p/6e16c0429044)。
 
 # 参考资料
-[Windows环境下编译适用于NDK18及以上版本的opencv库](https://www.qingtingip.com/h_235673.html)
+[Windows环境下编译适用于NDK18及以上版本的opencv库](https://blog.csdn.net/qq_19313495/article/details/89709405)
