@@ -4,7 +4,7 @@ title:      小米平板2安装home assistant
 subtitle:   使用Lineage OS + Termux + Ubuntu
 date:       2022-06-18
 author:     CescMessi
-header-img: https://c1.mifile.cn/f/i/15/mipad2/specs-screen-bg.jpg
+header-img: img/Snipaste_2022-06-18_12-54-19.png
 catalog: true
 tags:
     - Android
