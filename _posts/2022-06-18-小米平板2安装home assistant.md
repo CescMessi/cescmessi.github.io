@@ -123,4 +123,4 @@ bash get
 安装时间与网络状况有关，安装完成后，就可以根据HACS官网的介绍进行进一步的配置和操作了。
 
 # 最终成果
-![Img](https://raw.githubusercontent.com/CescMessi/CescMessi.github.io/master/img/Snipaste_2022-06-18_12-54-19.png)
+![Imgur](https://i.imgur.com/vFXgSo2.png)
